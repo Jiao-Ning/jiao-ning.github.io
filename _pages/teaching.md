@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Courses, office hours, and meeting information.
 nav: true
 nav_order: 6
