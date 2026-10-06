@@ -6,7 +6,7 @@ description: Courses, office hours, and meeting information.
 nav: true
 nav_order: 6
 ---
-
+<div class="teaching-page" markdown="1">
 ## Office hours and meetings
 
 I hold office hours on Zoom. Students in my courses and lab sections are welcome to drop in during the scheduled time, no appointment needed.
@@ -43,3 +43,5 @@ Teaching Assistant · Spring 2025
 
 **Curriculum development for college teacher training programs**<br>
 UNESCO-ICHEI · 2023–2024
+
+</div>
