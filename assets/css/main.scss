@@ -58,3 +58,11 @@ html[data-theme="dark"] {
     justify-content: space-around;
   }
 }
+
+/* Smaller email / LinkedIn icons at the bottom of the About page */
+.social .contact-icons {
+  font-size: 2rem;
+}
+.social .contact-icons a {
+  margin: 0 0.4rem;
+}
