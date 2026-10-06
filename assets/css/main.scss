@@ -96,3 +96,16 @@ html[data-theme="dark"] {
 .teaching-page ul li {
   margin-bottom: 0.6rem;
 }
+
+/* About page: space between the profile photo column and the bio text */
+@media (min-width: 576px) {
+  .post .profile.float-right {
+    margin-left: 2.5rem;
+  }
+  .post .profile.float-left {
+    margin-right: 2.5rem;
+  }
+}
+.post .profile {
+  margin-bottom: 1.5rem;
+}
