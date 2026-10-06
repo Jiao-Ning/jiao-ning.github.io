@@ -81,3 +81,18 @@ html[data-theme="dark"] {
 .publications ol.bibliography li .links {
   margin-top: 0.5rem;
 }
+
+/* Teaching page: more space between sections and between courses */
+.teaching-page h2 {
+  margin-top: 3rem;
+  margin-bottom: 1.25rem;
+}
+.teaching-page h2:first-child {
+  margin-top: 1.5rem;
+}
+.teaching-page p {
+  margin-bottom: 1.75rem;
+}
+.teaching-page ul li {
+  margin-bottom: 0.6rem;
+}
