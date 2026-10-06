@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jiao-ning.github.io/Jiao-Ning.github.io/sitemap.xml
+Sitemap: https://jiao-ning.github.io/sitemap.xml
