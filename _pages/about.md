@@ -12,6 +12,7 @@ profile:
     <p>Beering Hall of Liberal Arts and Education</p>
     <p>100 North University Street</p>
     <p>West Lafayette, IN 47907</p>
+    <p>Email: ning24@purdue.edu</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
