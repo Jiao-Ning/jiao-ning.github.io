@@ -66,3 +66,18 @@ html[data-theme="dark"] {
 .social .contact-icons a {
   margin: 0 0.4rem;
 }
+
+/* Publications: more breathing room between entries, and put the year
+   on the same line as the note (e.g. "2026 · Under review at ...") */
+.publications ol.bibliography > li {
+  margin-bottom: 2.25rem;
+}
+.publications ol.bibliography li .periodical {
+  display: inline;
+}
+.publications ol.bibliography li .periodical + .periodical::before {
+  content: "· ";
+}
+.publications ol.bibliography li .links {
+  margin-top: 0.5rem;
+}
