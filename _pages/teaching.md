@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: Courses, office hours, and meeting information.
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 <div class="teaching-page" markdown="1">
